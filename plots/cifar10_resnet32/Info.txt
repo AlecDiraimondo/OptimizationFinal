@@ -1,0 +1,7 @@
+Laying out some of the information about the Cifar10 on Resnet32 Experiment:
+
+Accuarcies:
+Apollo - 92.88
+AdamW - 92.83
+AdaHessian - 92.4
+Adam - 91.34
